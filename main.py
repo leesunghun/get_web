@@ -20,7 +20,7 @@ def print_booklist(number):
 
     print number
  #   print number
-    for count in range(1000, 1822):
+    for count in range(1822, 1823):
         time.sleep(2)
         urls= url + `count`
      
