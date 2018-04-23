@@ -3,9 +3,9 @@ import urllib2
 from BeautifulSoup import BeautifulSoup
 import time
 
-url = "http://sglib.mapo.go.kr/data/new_book_view.asp?table_name=new_book&method=view&val_01="
-list_url="http://sglib.mapo.go.kr/data/new_book_list.asp?table_name=new_book"
-move_url="http://sglib.mapo.go.kr/data/new_book_list.asp?page1="
+url = "myurl"
+list_url="myurl"
+move_url="myurl"
 
 
 def change_word(word):
